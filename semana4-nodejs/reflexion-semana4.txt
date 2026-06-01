@@ -1,0 +1,2 @@
+Reflexión Semana 4 - Node.js:
+Crear un servidor con Express fue más fácil de lo que pensé. Con app.get y app.listen el servidor ya responde. Aprendí que package.json sirve para guardar las dependencias como express. Me gustaría seguir practicando rutas.
