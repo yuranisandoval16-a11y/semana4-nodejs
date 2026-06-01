@@ -1,0 +1,4 @@
+Pregunta 1: respuesta A
+Pregunta 2: respuesta B
+Pregunta 3: respuesta A
+Pregunta 4: respuesta C
